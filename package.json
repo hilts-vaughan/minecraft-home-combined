@@ -1,0 +1,19 @@
+{
+  "name": "minecraft-home-combined",
+  "version": "1.0.0",
+  "description": "Combine save data from Minecraft saves files; nothing else. Could be extended for other stuff but KISS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hilts-vaughan/minecraft-home-combined.git"
+  },
+  "author": "Vaughan Hilts",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hilts-vaughan/minecraft-home-combined/issues"
+  },
+  "homepage": "https://github.com/hilts-vaughan/minecraft-home-combined#readme"
+}
